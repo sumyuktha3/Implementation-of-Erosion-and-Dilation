@@ -52,28 +52,16 @@ To implement Erosion and Dilation using Python and OpenCV.
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![WhatsApp Image 2022-05-21 at 1 54 54 AM](https://user-images.githubusercontent.com/75235818/169698265-3a4068bb-5914-4c75-84ab-d02dbdf8208d.jpeg)
 
 ### Display the Eroded Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![WhatsApp Image 2022-05-21 at 1 54 54 AM (1)](https://user-images.githubusercontent.com/75235818/169698230-04cfcfdd-37e1-4c7b-9e5d-27a8089d6ec1.jpeg)
 
 ### Display the Dilated Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![WhatsApp Image 2022-05-21 at 1 54 54 AM (2)](https://user-images.githubusercontent.com/75235818/169698251-b781bb5a-e870-4d77-a112-60194afe577f.jpeg)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
